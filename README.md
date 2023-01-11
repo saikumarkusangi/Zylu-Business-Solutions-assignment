@@ -1,16 +1,8 @@
-# employees
+# employees sheet
 
-A new Flutter project.
+A Flutter project using REST API with Dio package and Providers as state management .
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# screen shots
+![download](https://user-images.githubusercontent.com/93697313/211734769-81ee7ba5-33d6-4ffb-a0f5-fde23026dabd.png)
+![download](https://user-images.githubusercontent.com/93697313/211734887-87b7f60e-a918-4a87-b743-b4f6179cf8b7.png)
+![download](https://user-images.githubusercontent.com/93697313/211734984-e76e82f6-3364-4e35-8970-9bf1bc316c9c.png)
