@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers:[
        ChangeNotifierProvider(create:(_)=>EmployeeController()),
-          ChangeNotifierProvider(create:(_)=>CharacterController())
+         
       ],
       child: MaterialApp(
         title: 'Employees Data',
