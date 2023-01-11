@@ -24,20 +24,6 @@ static Future<List<EmployeeModel>> fetchEmployee() async{
  
 }
 
-static Future<List<CharacterModel>> fetchCharacter() async{
-  
-  var response = await dio.get(uri);
-  
-  if (response.statusCode == 200) 
-  {
-    final List<dynamic> data =  response.data;
-    return data.map((item) => CharacterModel.fromJson(item)).toList();
-    
-  }else{
-    throw Exception('Something went wrong!!!');
-  }
- 
 
-}
 
 }
